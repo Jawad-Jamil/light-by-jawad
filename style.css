@@ -4,7 +4,6 @@ body{
     box-sizing: border-box;
     background-image: linear-gradient(to right,#ff3c00 20% ,#ff8453 80%);
     background-size: cover;
-    background-repeat-x: no-repeat;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .light_wrapper{
